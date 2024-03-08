@@ -1,5 +1,6 @@
 # Function
 * get the all comics from 動漫狂
 
-# how to use
-* check the comic page url is as the same as the content of the urlUpdate.txt
+# How to use
+* make the content of the urlUpdate.txt is as the same as the comic page url
+* clear all data on jsonstorage
