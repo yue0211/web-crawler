@@ -2,8 +2,7 @@
 * Include premiere time, update time reminding people when can watch anime.
   
 # How to use
-* run main.py
-* json will be updated.
+* run main.py, json will be updated.
 * if there are some bugs which anime page generate, you can modify the variable called Name and Time.
 
 # Reference
