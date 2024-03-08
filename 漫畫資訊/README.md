@@ -3,4 +3,5 @@
 
 # How to use
 * make the content of the urlUpdate.txt is as the same as the comic page url
-* clear all data on jsonstorage
+* clear all data on jsonstorage. json format: {}
+* run main.py can update json
